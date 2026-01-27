@@ -1,11 +1,7 @@
-import { ContactForm } from "@/components/ContactForm";
+import LandingPage from "@/components/LandingPage";
 
 const Index = () => {
-  return (
-    <main className="min-h-screen bg-background flex items-center justify-center p-4">
-      <ContactForm />
-    </main>
-  );
+  return <LandingPage />;
 };
 
 export default Index;

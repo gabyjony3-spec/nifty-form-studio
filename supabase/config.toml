@@ -1,1 +1,115 @@
-project_id = "vqtgxrliptcdhgzwpoin"
+project_id = "cijxuyrdwshrrthetggp"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.analyze-facebook]
+verify_jwt = false
+
+[functions.analyze-instagram]
+verify_jwt = false
+
+[functions.analyze-linkedin]
+verify_jwt = false
+
+[functions.analyze-profile-photo]
+verify_jwt = false
+
+[functions.analyze-social-real]
+verify_jwt = false
+
+[functions.analyze-social]
+verify_jwt = false
+
+[functions.analyze-tiktok]
+verify_jwt = false
+
+[functions.analyze-website]
+verify_jwt = false
+
+[functions.analyze-youtube]
+verify_jwt = false
+
+[functions.calculate-profile-score]
+verify_jwt = false
+
+[functions.check-subscription]
+verify_jwt = false
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.customer-portal]
+verify_jwt = false
+
+[functions.detect-niche]
+verify_jwt = false
+
+[functions.ensure-company-membership]
+verify_jwt = false
+
+[functions.generate-30-day-plan]
+verify_jwt = false
+
+[functions.generate-ad-campaign]
+verify_jwt = false
+
+[functions.generate-ad-image]
+verify_jwt = false
+
+[functions.generate-content-calendar]
+verify_jwt = false
+
+[functions.generate-content-pillars]
+verify_jwt = false
+
+[functions.generate-highlight-cover]
+verify_jwt = false
+
+[functions.generate-post-image]
+verify_jwt = false
+
+[functions.generate-template-ai]
+verify_jwt = false
+
+[functions.leads-academy]
+verify_jwt = false
+
+[functions.meta-webhook]
+verify_jwt = false
+
+[functions.oauth-callback]
+verify_jwt = false
+
+[functions.process-scheduled-messages]
+verify_jwt = false
+
+[functions.run-automation-for-new-lead]
+verify_jwt = false
+
+[functions.send-team-invite]
+verify_jwt = false
+
+[functions.send-twilio]
+verify_jwt = false
+
+[functions.send-welcome-email]
+verify_jwt = false
+
+[functions.send-whatsapp-meta]
+verify_jwt = false
+
+[functions.send-whatsapp]
+verify_jwt = false
+
+[functions.stripe-webhook]
+verify_jwt = false
+
+[functions.sync-whatsapp-templates]
+verify_jwt = false
+
+[functions.welcome-message]
+verify_jwt = false
+
+[functions.whatsapp-webhook]
+verify_jwt = false
